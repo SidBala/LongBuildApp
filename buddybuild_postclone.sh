@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-sleep 840
+sleep 1800
